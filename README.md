@@ -1,2 +1,4 @@
 # armada-pipeline
-Art asset pipeline for games
+An art asset pipeline for artists
+
+Releasing soon!
