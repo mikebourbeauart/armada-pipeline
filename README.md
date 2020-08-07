@@ -1,5 +1,5 @@
 ![Release](https://github.com/mikebourbeauart/mb-armada/workflows/Release/badge.svg)
-
+![Documentation Status](https://readthedocs.org/projects/armada-pipeline/badge/?version=latest)](https://armada-pipeline.readthedocs.io/en/latest/?badge=latest)
 ![alt text](https://github.com/mikebourbeauart/mb-armada/blob/feature/docs/cover_full_github.png?raw=true)
 
 An art asset pipeline for artists
@@ -11,7 +11,6 @@ Download the beta now! https://gum.co/YwBqX
 Future website: https://www.armadapipeline.org
 
 Discord: https://discord.gg/5jXdtau
-
 
 
 Artists
