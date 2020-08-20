@@ -1,5 +1,5 @@
 ![Release](https://github.com/mikebourbeauart/mb-armada/workflows/Release/badge.svg)
-![Documentation Status](https://readthedocs.org/projects/armada-pipeline/badge/?version=latest)](https://armada-pipeline.readthedocs.io/en/latest/?badge=latest)
+![Documentation Status](https://readthedocs.org/projects/armada-pipeline/badge/?version=latest)
 ![alt text](https://github.com/mikebourbeauart/mb-armada/blob/feature/docs/cover_full_github.png?raw=true)
 
 An art asset pipeline for artists
@@ -35,16 +35,7 @@ Getting Started
 ---------------
 
 Development Setup:
-1) Install [Python 3.7](https://www.python.org/downloads/release/python-370/)
-2) Choose an IDE
-    - I use [PyCharm Pro](https://www.jetbrains.com/pycharm/). All instructions will assume you are too 
-3) Install Virtual Environment
-    - ctrl+alt+s to bring up settings and navigate to project > project interpreter
-    - Gear icon > Add 
-    - Select Virtualenv Environment > New environment
-        - Location = `path\to\armada-pipeline\venv`
-        - Interpreter Base = `path\to\Python 3.7\python.exe`
-4) Install requirements
+
 
 
 Key Modules:

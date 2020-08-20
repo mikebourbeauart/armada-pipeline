@@ -1,9 +1,9 @@
-.. _apps:
+.. _app:
 
-mb_armada.hooks.apps
+armada.hooks.app
 ********************
 
-.. automodule:: mb_armada.hooks.apps
+.. automodule:: armada.hooks.app
 
 .. toctree::
     :maxdepth: 1

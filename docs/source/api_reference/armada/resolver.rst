@@ -1,9 +1,9 @@
-.. _resource:
+.. _resolver:
 
-mb_armada.resource
+armada.resolver
 ==================
 
-.. automodule:: mb_armada.resource
+.. automodule:: armada.resource
    :members:
    :undoc-members:
    :show-inheritance:

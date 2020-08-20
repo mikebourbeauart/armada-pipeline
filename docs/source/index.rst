@@ -8,7 +8,13 @@ Armada Pipeline
 
 .. important::
 
-    Current dev: `Alpha`
+    Development Status:
+
+        Armada Launcher: `Beta`
+
+        Marina Docker: `Beta`
+
+        Atlantis Asset Management: `In Development`
 
 **Armada** is the main pipeline tool from which all project files (Maya, Houdini, etc) are
 launched from.
@@ -23,11 +29,7 @@ management tools.
    :maxdepth: 2
    :glob:
 
-   installation
    getting_started/index
-   projects/index
-   assets/index
-   tasks/index
    development/index
    api_reference/index
 
